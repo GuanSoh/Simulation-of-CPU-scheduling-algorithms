@@ -1,6 +1,6 @@
 # Simulation-of-CPU-scheduling-algorithms
 This project is a simulation of the CPU process scheduling algorithm. After the simulation, the system will show the turnaround time and waiting time for each scheduling 
-algorithm. This teammate Tee Wai Bing and Ng Rui Wen also contributed to this project.
+algorithm. This project also contributed by my teammate Tee Wai Bing and Ng Rui Wen
 
 ## There CPU process scheduling algorithm will be simulate in this program:
 
