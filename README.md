@@ -8,3 +8,4 @@ This project is a simulation of the CPU process scheduling algorithm.
 * Non Preemptive Priority
 
 ## Simulation Image
+![alt text](https://github.com/GuanSoh/Simulation-of-CPU-scheduling-algorithms/blob/main/Simulation%20Image/Simualtion%20Image%201.png)
